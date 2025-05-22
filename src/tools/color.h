@@ -3,26 +3,29 @@
 #include <QColor>
 QColor colors[] = {
 
-    QColor("#00FF00"),  // Green
-    QColor("#00FFFF"),  // Cyan
-    QColor("#0000FF"),   // Blue
-    QColor("#000000"),  // Black
-    QColor("#008B8B"),  // Dark Cyan
-    QColor("#40E0D0"),  // Turquoise
-    QColor("#000080"),  // Navy
-    QColor("#90EE90"),  // Light Green
-    QColor("#008000"),  // Dark Green
-    QColor("#008080"),   // Dark Cyan
-    QColor("#800000"),  // Maroon
-    QColor("#800080"),  // Purple
-    QColor("#808080"),  // Gray
-    QColor("#A52A2A"),   // Brown
-    QColor("#B22222"),  // Firebrick
-    QColor("#C0C0C0"),  // Silver
-    QColor("#D3D3D3"),  // Light Gray
-    QColor("#D2691E"),  // Chocolate
-    QColor("#F0E68C"),  // Khaki
-    QColor("#FF00FF"),  // Magenta
+
+QColor("#A0E7E5"),  // Powder Blue
+QColor("#FFB5C2"),  // Rose Pink
+QColor("#FFF5BA"),  // Vanilla Yellow
+QColor("#A7F3D0"),  // Water Green
+QColor("#E5E7EB"),  // Cloud Gray
+QColor("#D0EFFF"),  // Baby Blue
+QColor("#C6F6B2"),  // Pistachio Green
+QColor("#FFE066"),  // Daisy Yellow
+QColor("#89ABE3"),  // Blueberry
+QColor("#D8B4E2"),  // Gentle Lilac
+QColor("#E29D89"),  // Soft Terracotta
+QColor("#CAF0F8"),  // Ice Blue
+QColor("#DDB892"),  // Cinnamon Coffee
+QColor("#BBD686"),  // Light Olive
+QColor("#A0E3D3"),  // Turquoise Foam
+QColor("#D291BC"),  // Floral Purple
+QColor("#FAD4D8"),  // Blush Rose
+QColor("#D5F3F3"),  // Misty Mint
+QColor("#AAF0D1"),  // Bubblegum Green
+QColor("#FFA69E"),  // Light Salmon
+
+
     QColor("#FF00FF"),  // Magenta
     QColor("#FF0000"),  // Red
     QColor("#FF6347"),  // Tomato
